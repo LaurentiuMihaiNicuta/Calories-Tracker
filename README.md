@@ -30,9 +30,5 @@ It uses two external APIs to understand your exercise input and automatically sa
 
 ---
 
-## 🔐 Environment Variables & Security
 
-Sensitive data is stored inside a `.env` file and is **ignored by GitHub** using `.gitignore`.
-
-Example `.gitignore`:
 
